@@ -1,0 +1,88 @@
+Yyyy/* login */
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.w60 {
+  width: 100%;
+}
+
+.changepw {
+  font-weight: 600;
+    color: #000;
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+.form_login {
+  margin: auto;
+  text-align: center;
+  width: 100%;
+  max-width: 400px;
+  margin-top: 150px;
+}
+
+.text_secondary {
+  color: rgb(150, 150, 150);
+}
+
+.fullwidth {
+  width: 100%;
+}
+.input_style {
+  padding: 10px;
+  font-size: 18px;
+}
+
+.icons {
+  font-size: 30px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.border_icon {
+  border: 3px solid black;
+  padding: 4px;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.my_3 {
+  margin: 18px 0;
+}
+
+.mb_2 {
+  margin-bottom: 12px;
+}
+.text_right {
+  text-align: right;
+}
+
+.text_error {
+  display: block;
+  text-align: left;
+  color: rgb(255, 62, 62);
+}
+
+.btn_style {
+  padding: 4px 10px;
+  font-weight: 600;
+  font-size: larger;
+  cursor: pointer;
+}
+
+/* register */
+
+.bg_black {
+  background: #000;
+  color: #fff;
+}
+
+.content_signup {
+  margin: auto;
+  text-align: center;
+  width: 100%;
+  max-width: 300px;
+  margin-top: 250px;
+}
